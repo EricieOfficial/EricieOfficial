@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Lakony Erick. I am Business Computing student building  skills in web development, Java, and Python. Passionate about business and technology driven by curiosity and desire to be part of the future technology of Africa and the world at large.
 
 <!--
 **EricieOfficial/EricieOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
